@@ -1,6 +1,6 @@
 # Olá, sou o Maycon Douglas! 👋
 
-Engenheiro de Software focado no ecossistema **.NET (C#)**, **Blazor** e desenvolvimento de sistemas escaláveis e modernos com **Clean Architecture**.
+Desenvolvedor de Software focado no ecossistema **.NET (C#)**, **Blazor** e desenvolvimento de sistemas escaláveis e modernos com **Clean Architecture**.
 
 <div align="center">
 
