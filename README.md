@@ -4,7 +4,7 @@ Desenvolvedor de Software focado no ecossistema **.NET (C#)**, **Blazor** e dese
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maycon%20Douglas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maycon-douglas-leite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maycon%20Douglas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maycondgl/)
 [![E-mail](https://img.shields.io/badge/Contato-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maycon.dsl@hotmail.com)
 
 </div>
